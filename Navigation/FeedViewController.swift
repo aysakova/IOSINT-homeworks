@@ -36,4 +36,7 @@ final class FeedViewController: UIViewController {
         super.viewWillLayoutSubviews()
     }
     
+    override func viewWillDisappear(_ animated: Bool) {
+        super.viewWillDisappear(animated)
+    }
 }
