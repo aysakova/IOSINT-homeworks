@@ -1,5 +1,4 @@
 
-import iOSIntPackage
 import UIKit
 
 public struct Post {
