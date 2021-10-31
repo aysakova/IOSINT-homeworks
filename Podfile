@@ -18,5 +18,3 @@ end
 #   target 'StorageServiceTests' do
 #     # Pods for testing
 #   end
-
-end

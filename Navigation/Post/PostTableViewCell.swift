@@ -8,7 +8,6 @@
 
 import UIKit
 import StorageService
-import iOSIntPackage
 
 class PostTableViewCell: UITableViewCell {
     
