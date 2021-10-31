@@ -115,3 +115,5 @@ extension ProfileVIewController: UITableViewDelegate {
         self.navigationController?.pushViewController(galleryVC, animated: true)
     }
 }
+
+
